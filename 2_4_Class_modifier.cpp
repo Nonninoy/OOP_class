@@ -4,7 +4,7 @@ using namespace std;
 
 // struct declaration
 struct anime{
-
+private:
     int playing_episode; // last played episode
     int playing_sec; // last played seconds in episode
 

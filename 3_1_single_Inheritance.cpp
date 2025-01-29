@@ -1,7 +1,6 @@
 #include<iostream>
 #include<string>
 using namespace std;
-
 class media{
 private :
     int playing_sec; // last played seconds in episode
